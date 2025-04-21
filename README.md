@@ -4,7 +4,6 @@ A simple and secure password generator built with **React**. Generate strong, cu
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/fbf3542b-6605-4bb0-826c-de7b18f5413d" />
 
-
 ---
 
 ## 🚀 Features
@@ -17,7 +16,6 @@ A simple and secure password generator built with **React**. Generate strong, cu
   - Numbers
   - Symbols
 - ✅ Copy password to clipboard
-- ✅ Responsive and clean UI
 - ✅ Built with React + Tailwind CSS
 
 ---
@@ -29,8 +27,6 @@ A simple and secure password generator built with **React**. Generate strong, cu
 - JavaScript (ES6+)
 
 ---
-
-
 
 ## 📂 Getting Started
 

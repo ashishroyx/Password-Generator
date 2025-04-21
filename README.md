@@ -38,4 +38,4 @@ A simple and secure password generator built with **React**. Generate strong, cu
 
 ```bash
 git clone https://github.com/ashishroyX/password-generator.git
-cd password-generator-react
+cd password-generator
